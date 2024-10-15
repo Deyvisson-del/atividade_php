@@ -1,0 +1,30 @@
+1. Faça um programa que irá receber o nome e valor de um produto qualquer. E
+informar se ele é “importado” ou ”nacional”. Caso o produto seja “importado” seu
+preço deverá ser multiplicado por 2.17;
+
+2. Faça um algoritmo que receba nome, o sexo e o estado civil de uma pessoa. Caso
+sexo seja “F” e estado civil seja “CASADA”, solicitar o tempo de casada (anos).
+
+3. Faça um algoritmo que leia dois valores inteiros A e B se os valores forem iguais
+deverá se somar os dois, caso contrário multiplique A por B. Ao final de qualquer um
+dos cálculos deve-se atribuir o resultado para uma variável C e mostrar seu
+conteúdo na tela.
+
+4. Encontrar o dobro de um número caso ele seja positivo e o seu triplo caso seja
+negativo, imprimindo o resultado.
+
+5. O IMC – Índice de Massa Corporal é um critério da Organização Mundial de Saúde
+para dar uma indicação sobre a condição de peso de uma pessoa adulta. A fórmula
+é IMC = peso / ( altura )2 Elabore um algoritmo que leia o peso e a altura de um
+adulto e mostre sua condição de acordo com a tabela abaixo.
+IMC em adultos Condição
+a. Abaixo de 18,5 Abaixo do peso
+b. Entre 18,5 e 25 Peso normal
+c. Entre 25 e 30 Acima do peso
+d. Acima de 30 obeso
+
+6. Crie um algoritmo em Java que receba a idade de uma pessoa e informe a sua
+classe eleitoral:
+a. Não eleitor (abaixo de 16 anos);
+b. Eleitor obrigatório (entre a faixa de 18 e menor de 65 anos);
+c. Eleitor facultativo (de 16 até 18 anos e maior de 65 anos, inclusive).
